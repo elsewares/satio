@@ -1,0 +1,19 @@
+{
+  "author": "Aldo Nievas <aldo@satio.com.ar>",
+  "name": "satio",
+  "description": "Satio Blog",
+  "version": "0.0.1",
+  "homepage": "http://www.satio.com.ar",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alduro/satio.git"
+  },
+  "engines": {
+    "node": "~0.6.8"
+  },
+  "dependencies": {
+  	
+  	},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
